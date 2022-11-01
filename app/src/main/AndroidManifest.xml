@@ -5,8 +5,6 @@
     package="com.example.agronotizie13">
 
     <uses-permission android:name="android:permission.INTERNET" />
-    <uses-permission android:name="android.permission.DELETE_CACHE_FILES" />
-    <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
